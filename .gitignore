@@ -32,3 +32,4 @@ $RECYCLE.BIN/
 *.msp
 *.lnk
 /.idea/
+*.iml
